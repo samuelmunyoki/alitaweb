@@ -32,7 +32,7 @@ export default function Landing() {
                       <span className="sr-only">Workflow</span>
                       <img
                         className="h-8 w-auto sm:h-10"
-                        src=".\src\images\robot_logo.png"
+                        src=".\images\robot_logo.png"
                       />
                     </a>
                     <div className="-mr-2 flex items-center md:hidden">
