@@ -32,7 +32,7 @@ export default function Landing() {
                       <span className="sr-only">Workflow</span>
                       <img
                         className="h-8 w-auto sm:h-10"
-                        src="../../../assets/images/robot_logo.png"
+                        src="../../assets/images/robot_logo.png"
                       />
                     </a>
                     <div className="-mr-2 flex items-center md:hidden">
@@ -74,7 +74,7 @@ export default function Landing() {
                     <div>
                       <img
                         className="h-8 w-auto"
-                        src="../../../assets/images/bg.jpg"
+                        src="../../assets/images/bg.jpg"
                         alt=""
                       />
                     </div>
@@ -144,7 +144,7 @@ export default function Landing() {
       <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
         <img
           className="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"
-          src="../../../assets/images/bg.jpg"
+          src="../../assets/images/bg.jpg"
           alt=""
         />
       </div>
